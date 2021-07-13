@@ -1,0 +1,7 @@
+C:\Users\Leah\Desktop\SPC\COP2362 C# II\Microsoft Press\VCSBS\Chapter 12\Vehicles\Vehicles\obj\Debug\Vehicles.csprojAssemblyReference.cache
+C:\Users\Leah\Desktop\SPC\COP2362 C# II\Microsoft Press\VCSBS\Chapter 12\Vehicles\Vehicles\obj\Debug\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\Leah\Desktop\SPC\COP2362 C# II\Microsoft Press\VCSBS\Chapter 12\Vehicles\Vehicles\bin\Debug\Vehicles.exe.config
+C:\Users\Leah\Desktop\SPC\COP2362 C# II\Microsoft Press\VCSBS\Chapter 12\Vehicles\Vehicles\bin\Debug\Vehicles.exe
+C:\Users\Leah\Desktop\SPC\COP2362 C# II\Microsoft Press\VCSBS\Chapter 12\Vehicles\Vehicles\bin\Debug\Vehicles.pdb
+C:\Users\Leah\Desktop\SPC\COP2362 C# II\Microsoft Press\VCSBS\Chapter 12\Vehicles\Vehicles\obj\Debug\Vehicles.exe
+C:\Users\Leah\Desktop\SPC\COP2362 C# II\Microsoft Press\VCSBS\Chapter 12\Vehicles\Vehicles\obj\Debug\Vehicles.pdb
